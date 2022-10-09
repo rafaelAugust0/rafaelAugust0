@@ -53,8 +53,7 @@
   
   </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelAugust0&show_icons=true&theme=radical) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelAugust0&layout=compact&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelAugust0&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelAugust0&layout=compact&theme=radical)
 
 <div align="center">
   <img src="https://github.com/danielbped/danielbped/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;">
