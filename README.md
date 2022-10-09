@@ -23,4 +23,5 @@
 <a href="https://web.facebook.com/rafa777skrr?_rdc=1&_rdr" target="_blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook profile" height="30" width="111"/>
 <a href="https://www.instagram.com/uuncharted_/"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt=" ig profile" height="30" width="111"/>
 </p>
-
+<hr>
+<img src="https://github.com/danielbped/danielbped/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;">
