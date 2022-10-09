@@ -19,11 +19,11 @@
 
  <div align="center">
   
-    🔥 I’m studying  this full stack technologies at Imagine School Brazil.
+    🔥 Studying full-stack technologies.
 
-    🔥 I'm falling in love with front end development.
+    🔥 In love with front-end development.
 
-    🔥 Technology has the power to change things
+    🔥 Technology change things
   
   </div>
   
