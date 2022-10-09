@@ -52,6 +52,7 @@
     🔥 Technology has the power to change things
   
   </div>
+  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelAugust0&layout=compact&theme=radical) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelAugust0&show_icons=true&theme=radical)
 
