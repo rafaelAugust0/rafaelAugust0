@@ -6,7 +6,6 @@
 <hr>
 <h1 align="center"> Hello, is it your first time here? </h1>
 <h3 align="center">My name is Rafael Augusto and I am venturing into this incredible world of development, seeking to acquire more and more the necessary   skills that the area requires.
-  <p> I'm also a big fan of Pokémon and Charizard is better than everyone!</p>
 </h3>
 
 <h3 align="center">Currently learning:</h3>
