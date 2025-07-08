@@ -7,8 +7,8 @@
 Fique à vontade para explorar, contribuir ou trocar uma ideia! 🚀</h3>
 
 
-<h3 align="center">📚 Atualmente aprendendo:</h3>
-<p align="center">
+<h3>📚 Atualmente aprendendo:</h3>
+<p>
     
 🟨 JavaScript (JS) – programação dinâmica para web
 
