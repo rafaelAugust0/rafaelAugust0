@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://imgur.com/a/fwnA5gf">
+    <img src="https://i.imgur.com/CGmyur3.png">
 </div>
 <hr>
 <h1 align="center">👋 Olá, seja bem-vindo(a) ao meu perfil!</h1>
