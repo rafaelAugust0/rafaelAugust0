@@ -9,6 +9,7 @@ Fique à vontade para explorar, contribuir ou trocar uma ideia! 🚀</h3>
 
 <h3 align="center">📚 Atualmente aprendendo:</h3>
 <p align="center">
+    
 🟨 JavaScript (JS) – programação dinâmica para web
 
 🔵 C – fundamentos da programação e estrutura de dados
